@@ -1,0 +1,7 @@
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\bin\Debug\ConAppAss17Part1.exe.config
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\bin\Debug\ConAppAss17Part1.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\bin\Debug\ConAppAss17Part1.pdb
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\obj\Debug\ConAppAss17Part1.csproj.AssemblyReference.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\obj\Debug\ConAppAss17Part1.csproj.CoreCompileInputs.cache
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\obj\Debug\ConAppAss17Part1.exe
+C:\Users\rojar\OneDrive\Documents\Mphasis\ConAppAss17Part1\ConAppAss17Part1\obj\Debug\ConAppAss17Part1.pdb
